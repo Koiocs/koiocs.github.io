@@ -1,3 +1,4 @@
+http://example.com/2022/09/07/test/
 http://example.com/2022/09/07/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
 http://example.com/2022/08/27/hello-world/
 http://example.com/
